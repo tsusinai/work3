@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- 内部缓存的图片 -->
+    <cache-path name="cache_images" path="images/" />
+    <!-- 外部存储的图片（如相册） -->
+    <external-files-path name="external_images" path="Pictures/" />
+    <!-- 兼容所有外部存储路径（可选） -->
+    <external-path name="external_all" path="." />
+</paths>
